@@ -1,5 +1,5 @@
-<h1 align="center">Greetings 👋, I'm Kirill Pastukhou!</h1>
-<h3 align="center">A beginner AI/ML and Data Science developer from Belarus.</h3>
+<h1 align="center">Greetings 👋, I'm Kiryl Pastukhou!</h1>
+<h3 align="center">A junior AI/ML and Data Science developer from Belarus.</h3>
 
 - 🔭 I’m and my partner currently working on [EconScope project (finance app based on neural networks)](https://github.com/dumonten/EconScope)
 
